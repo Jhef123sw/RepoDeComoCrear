@@ -1,4 +1,4 @@
-FROM gitpod/worspace-full
+FROM gitpod/workspace-full
 
 
 #Instalar graphviz
