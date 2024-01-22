@@ -3,6 +3,6 @@ image:
 
 
 vscode:
-  extesion:
-    -jebbs.plantuml 
-    -contextmapper.context-mapper-vscode-extension
+  extensions:
+   - jebbs.plantuml
+    - contextmapper.context-mapper-vscode-extension
